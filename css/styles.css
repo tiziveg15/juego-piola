@@ -1,0 +1,21 @@
+@font-face {
+    font-family:pixeles;
+    src: url("../Pixelify_Sans/PixelifySans-VariableFont_wght.ttf");
+}
+
+
+
+body {
+    background-color: #0008fdc6
+}
+
+
+body{
+    font-family: pixeles
+}
+
+
+
+
+
+
